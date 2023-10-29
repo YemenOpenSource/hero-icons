@@ -1,6 +1,6 @@
 {
     "name": "yemenopensource/hero-icons",
-    "description": "Enjoy realtime input validation by passing your rules in your input itself.",
+    "description": "HeroIcons is a Laravel package that provides a convenient command for generating hero icons as constants on a PHP class. This package is designed to simplify the process of working with hero icons in your Laravel projects.",
     "type": "library",
     "license": "MIT",
     "version": "1.0.0",

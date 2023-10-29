@@ -1,3 +1,5 @@
+![HeroIcons.png](https://banners.beyondco.de/Hero%20Icons.png?theme=light&packageManager=composer+require&packageName=yemenopensource%2Fhero-icons&pattern=architect&style=style_1&description=A+convenient+command+for+generating+hero+icons+as+constants+on+a+PHP+class.&md=1&showWatermark=1&fontSize=100px&images=code)
+
 # HeroIcons Generator
 
 ![Packagist Version (custom server)](https://img.shields.io/packagist/v/yemenopensource/hero-icons)

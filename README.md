@@ -2,7 +2,9 @@
 
 # HeroIcons Generator
 
-![Packagist Version (custom server)](https://img.shields.io/packagist/v/yemenopensource/hero-icons) ![Packagist Downloads (custom server)](https://img.shields.io/packagist/dt/yemenopensource/hero-icons)
+![Packagist Version (custom server)](https://img.shields.io/packagist/v/yemenopensource/hero-icons)
+![Packagist Downloads (custom server)](https://img.shields.io/packagist/dt/yemenopensource/hero-icons)
+[![StandWithPalestine](https://raw.githubusercontent.com/TheBSD/StandWithPalestine/main/badges/StandWithPalestine.svg)](https://github.com/TheBSD/StandWithPalestine/blob/main/docs/README.md)
 
 
 HeroIcons is a Laravel package that provides a convenient command for generating hero icons as constants on a PHP class. This package is designed to simplify the process of working with hero icons in your Laravel projects.

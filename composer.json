@@ -3,7 +3,7 @@
     "description": "HeroIcons is a Laravel package that provides a convenient command for generating hero icons as constants on a PHP class. This package is designed to simplify the process of working with hero icons in your Laravel projects.",
     "type": "library",
     "license": "MIT",
-    "version": "1.0.0",
+    "version": "1.1.0",
     "autoload": {
         "psr-4": {
             "YOS\\HeroIcons\\": "src/"
